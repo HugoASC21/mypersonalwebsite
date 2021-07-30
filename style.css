@@ -1,0 +1,91 @@
+div {
+    font-family: Helvetica;
+    background-color: orange;
+    color: white;
+    font-size: 25px;
+    padding: 5px;
+}
+html {
+    background-color: black;
+}
+#navbar {
+    font-weight:bold;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+p {
+    background-color: orange;
+}
+#Goku {
+    background-color: orange;
+    width: 280px;
+    height: 400px;
+}
+#Goku img {
+    padding: 20px;
+    width: 230px;
+    height: 350;
+}
+
+#Naruto {
+    width: 35px;
+    height: 45px;
+}
+#NarutoUzumaki {
+    background-color: orange;
+    width: 280px;
+    height: 350px;
+}
+#NarutoUzumaki img{
+    padding: 30px;
+    width: 210px;
+    height: 300px;
+}
+
+#Deku {
+    background-color: orange;
+}
+
+#Deku img{
+    padding: 20px;
+    width: 350px;
+    height: 230px;
+    
+}
+
+#Eren {
+    background-color: orange;
+    width: 200px;
+    height: 370px;
+}
+#Eren img{
+    padding: 20px;
+    width: 180px;
+    height: 300px;
+}
+
+#Deku {
+    width: 400px;
+    height: 260px;
+}
+
+#Tanjiro {
+    background-color: orange;
+}
+#Tanjiro img {
+    padding: 20px;
+    width: 230px;
+    height: 350px;
+}
+
+#Tanjiro {
+    width: 280px;
+    height: 400px;
+}
+
+.items:hover {
+    color: blue;
+    opacity: 1;
+}
