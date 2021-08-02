@@ -22,15 +22,11 @@ p {
     background-color: orange;
     width: 280px;
     height: 400px;
-    display: flex;
-    justify-content: center;
 }
 #Goku img {
     padding: 20px;
     width: 230px;
     height: 350;
-    display: flex;
-    justify-content: center;
 }
 
 #Naruto {
